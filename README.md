@@ -25,7 +25,7 @@
 
 #### With Heroku
 
-<a href="https://www.heroku.com/deploy?template=https://github.com/TIMESISNOTWAITING/Deploy">
+<a href="https://www.heroku.com/deploy?template=https://github.com/BANNA-XD123/Deploy">
   <img src="https://www.herokucdn.com/deploy/button.svg">
 </a>
 
