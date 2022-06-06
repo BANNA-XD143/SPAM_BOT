@@ -1,1 +1,1 @@
-Godfather: python -m Godfather
+Godfather: python -m Aaru
