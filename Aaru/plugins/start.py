@@ -3,26 +3,26 @@ import os
 from telethon.tl.functions.users import GetFullUserRequest
 from telethon import events, Button
 from telethon.tl.custom import button
-from Godfather import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID
+from Aaru import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID
 
-DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/c6f99c0b68ff07439ed72.jpg"
+DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph//file/e4bff82ab3fbc72818adc.jpg"
 
 Deadly_Button = [
         [
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/Deadly_Spam_Bot")
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/AARU_SPAMBOT")
         ],
         [
-        Button.url("• ᴍᴀɪɴᴛᴀɪɴ ʙʏ •", "https://t.me/Timesisnotwaiting")
+        Button.url("• ᴍᴀɪɴᴛᴀɪɴ ʙʏ •", "https://t.me/BANNA_XD")
         ]
         ]
                
 DeadlyX_Button = [
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/deadly_spammer"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/deadly_spam_bot")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/ABOUT_BANNA_XD"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/LOVE_BIRDS_123")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Godfatherakkii/DEADLY-SPAMBOT")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/BANNA-XD123/AARUSPAMBOT")
         ]
         ]
         
