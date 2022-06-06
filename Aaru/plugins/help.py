@@ -5,7 +5,7 @@ from time import time
 from datetime import datetime
 from Aaru import CMD_HNDLR as hl
     
-HELP_PIC = "https://telegra.ph/file/c6f99c0b68ff07439ed72.jpg"
+HELP_PIC = "https://telegra.ph//file/2c892083ee3cd59674c31.jpg"
 
 AARU_Help = "🔥 Aᴀʀᴜ Sᴘᴀᴍ Bᴏᴛ 🔥\n\n"
  
