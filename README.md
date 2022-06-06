@@ -24,9 +24,8 @@
 -------------------------------------------------
 
 #### With Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BANNA-XD143/SPAM_BOT)</br>
 
-<a href="https://www.heroku.com/deploy?template=https://github.com/BANNA-XD123/Deploy">
-  <img src="https://www.herokucdn.com/deploy/button.svg">
 </a>
 
 
