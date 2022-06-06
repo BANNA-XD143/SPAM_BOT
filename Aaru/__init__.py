@@ -40,7 +40,7 @@ SUDO_USERS = list(map(int, getenv("SUDO_USER").split()))
 if 1669178360 not in SUDO_USERS:
     SUDO_USERS.append(1669178360)
 
-OWNER_ID = int(os.environ.get("OWNER_ID", None))
+OWNER_ID = int(os.environ.get("OWNER_ID","5568362278"))
 
 # Don't Mess with Codes !! 
 DB_URI = config("DATABASE_URL", None)
